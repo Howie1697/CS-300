@@ -1,0 +1,11 @@
+What was the problem you were solving in the projects for this course?
+The staff at ABCU wanted me to create a program that would allow students to located classes based on their needs.
+
+How did you approach the problem? Consider why data structures are important to understand.
+I had vectors, lists and tress as my options and due to the flow of the problems i choose to use a BST.
+How did you overcome any roadblocks you encountered while going through the activities or project?
+Various google searches. 
+How has your work on this project expanded your approach to designing software and developing programs?
+Well to keep it simple, it has helped me understand teh working of the directories and how they function (i know they arent directories but in a sense the finished product acts as one).
+How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
+Keeping track of multiple inserts, changes and deletes has made me extremly grateful to commenting and making sure my code is readable.
